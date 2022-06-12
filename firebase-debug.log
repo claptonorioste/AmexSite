@@ -1,0 +1,13 @@
+[debug] [2022-06-12T10:43:42.129Z] ----------------------------------------------------------------------
+[debug] [2022-06-12T10:43:42.130Z] Command:       /home/corioste/.nvm/versions/node/v14.2.0/bin/node /home/corioste/.nvm/versions/node/v14.2.0/bin/firebase login:ci
+[debug] [2022-06-12T10:43:42.131Z] CLI Version:   9.19.0
+[debug] [2022-06-12T10:43:42.131Z] Platform:      linux
+[debug] [2022-06-12T10:43:42.131Z] Node Version:  v14.2.0
+[debug] [2022-06-12T10:43:42.131Z] Time:          Sun Jun 12 2022 18:43:42 GMT+0800 (Philippine Standard Time)
+[debug] [2022-06-12T10:43:42.131Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=905940940&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
