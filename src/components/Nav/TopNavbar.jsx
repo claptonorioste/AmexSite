@@ -148,8 +148,3 @@ const UlWrapper = styled.ul`
     display: none;
   }
 `;
-const UlWrapperRight = styled.ul`
-  @media (max-width: 760px) {
-    display: none;
-  }
-`;
